@@ -1,0 +1,30 @@
+.boton1, .boton2, .boton3 {
+    display: block;
+    margin-bottom: 15px;
+    height: 40px;
+}
+
+.boton1 {
+    background-color: #fff;
+    width: 180px;
+    border-radius: 20px;
+    color: #1caa68;
+    border: 2px solid #1caa68 ;
+
+}
+
+.boton2 {
+    background-color: #1caa68;
+    color: #fff;
+    width: 40px;
+    border-radius: 50%;
+    border: none;
+}
+
+.boton3 {
+    background-color: #2b78e4;
+    color: #fff;
+    width: 200px;
+    border: 2px solid #000;
+    box-shadow: 3px 3px black;
+}
